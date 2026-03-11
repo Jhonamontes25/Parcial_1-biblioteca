@@ -28,3 +28,7 @@ Proyecto desarrollado en Java usando Programación Orientada a Objetos.
 ## Diagrama UML
 
 ![Diagrama UML](uml_biblioteca.png)
+
+## Ejecución del proyecto
+
+Para ejecutar el proyecto se puede utilizar Visual Studio Code ejecutando la clase App.java o mediante Maven.
